@@ -1,4 +1,4 @@
-const Content = require('../models/Content');
+const Content = require('../models/contentModel');
 
 const getContent = async (req, res) => {
   try {
