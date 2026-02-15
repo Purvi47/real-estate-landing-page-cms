@@ -7,7 +7,7 @@ The project includes an **Admin Panel** to dynamically edit website text content
 
 ## 🚀 Live URLs
 
-Frontend: https://real-estate-landing-page-cms-spih.vercel.app/ 
+Frontend: https://real-estate-landing-page-cms.vercel.app/
 Backend: https://your-backend-url.onrender.com
 
 ---
